@@ -1,0 +1,62 @@
+/*.menu
+{
+	padding:13px;
+	color:#cccccc;
+	text-align:right;
+	background:#222222;
+	cursor:pointer;
+}*/
+
+.columnas
+{
+	color:#cccccc;
+	text-align:justify;
+	background:#222222;
+	padding:20px;
+}
+
+.columna-cel
+{
+	color:#cccccc;
+	text-align:center;
+	background:#76968b;
+	cursor:pointer;
+	padding:20px;
+}
+
+img
+{
+	width:100%;
+	height:auto;
+	cursor:pointer;
+}
+
+
+
+.columna-2
+{
+	background:#355e68;
+	color:#ccc;
+	text-align: center;
+	padding:30px;
+	cursor:pointer;
+	
+}
+
+.columna-gps
+{
+	font-size:20px;
+	font-weight:bold;
+	background:#76968b;
+	color:#fff;
+	text-align: center;
+	padding:30px;
+	cursor:pointer;
+}
+
+.redes-sociales
+{
+	width:30px;
+	height:30px;
+
+}
